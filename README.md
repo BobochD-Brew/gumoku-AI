@@ -1,18 +1,6 @@
 # gumoku-AI
 
-Le but est de faire une IA de Gomoku
+Le but est de faire une IA de Gomoku,
+le temps maximum de réflexion par coups est de 5 secondes
 
-
-Avancement : 
-
-- Focntion fitness
-- Algo alpha beta à adapter 
-
--> Essayer de faire tourner notre Alpha beta pour une partie lambda
-
-
-
-
-
-
-Objectif : Reseau de neuronnes
+[raport.pdf](raport.pdf)
